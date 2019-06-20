@@ -37,6 +37,9 @@ En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con l
 
 
 
+!https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/1%20Azimut.png
+
+
 
 
 
