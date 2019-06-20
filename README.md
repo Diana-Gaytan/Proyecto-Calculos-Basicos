@@ -142,6 +142,9 @@ El programa se ejecutó de la mejor manera posible, el código del mismo permiti
 Durante el desarrollo del código tuvimos diversos inconvenientes y dudas, las cuales fueron investigadas y comentadas entre los integrantes del equipo, al igual que pidiendo apoyo al profesor de la materia, compañeros de semestres avanzados y al encargado del módulo de cómputo.
 El obstáculo más difícil fue encontrar la manera de que el programa funcionara para n número de datos, ya que al inicio sólo lo hacía con 4 coordenadas.
 Sin embargo, como ya se había mencionado, dichos obstáculos se superaron.
+Finalmente, pensamos que la topografía es de gran utilidad cuando se requiere conocer las formas del terreno, pero utiliza un sinfín de cálculos, por lo tanto, es necesaria la ayuda de la programación para realizarlos y facilitar el trabajo a los ingenieros topógrafos geomáticos, asegurándonos de que los resultados sean correctos debido a la precisión del programa y dejando la satisfacción de un trabajo bien hecho
+
+
 
 6.- **Bibliografía**
 Downey, Elkner & Meyers, How to think like a computer scientist, 2002, Green Tea Press, Wellesley, MA, USA, http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf
