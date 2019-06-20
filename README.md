@@ -106,7 +106,7 @@ En esta parte del código se llama a las librerías correspondientes, las column
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/6%20Bandera.png)
  
-                                              Figura 6 Segunda parte del código.
+                                             Figura 6 Segunda parte del código.
                                         
 En la imagen anterior se observa la última parte del código; en la que se termina el ciclo bandera, el cual se asegura de que el número de datos insertados manualmente por el usuario sea igual a los contenidos en el archivo. Si el número de datos es correcto se efectúan las operaciones para cada fila y columna y se arrojan los resultados.
 
@@ -122,13 +122,13 @@ En la imagen anterior se observa la última parte del código; en la que se term
 
 ![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/7%20Datos.png)
 
-                                               Figura 7 Programa corrido.
+                                              Figura 7 Programa corrido.
                    En la imagen anterior se observa cómo se arrojan los resultados en el Python Shell.
 
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/8%20Levantamiento.png)
 
-                                              Figura 8 Gráfica del polígono
+                                             Figura 8 Gráfica del polígono
                                                  
 La figura 8 muestra cómo es el polígono real según las coordenadas del archivo csv.
 Vimos este proyecto como un trabajo sencillo para nuestra materia, el cual nos facilitaría un poco este tipo de trabajos, pero, viendo el resultado final, pareciera como si el trabajo hiciera todo por ti, pues es capaz de imprimirte hasta el polígono en un plano. En caso de que no puedas adquirir este plano de tu polígono, puedes darte una idea de cómo es, ya que los datos que agregas en el proyecto son reales, haciendo que su facilidad de uso para cualquier usuario sea altísima, facilitando por mucho todo trabajo relacionado con esto. 
