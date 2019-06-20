@@ -43,8 +43,10 @@ Para empezar, tuvimos la idea de hacer un código distinto a nuestra finalizaci�
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/2%20Distancia.png)
 
-Figura 2. Código inicial del programa
-Se intentó basarse en conocimientos que habían otorgado los trabajos anteriores a esta entrega, los cuales sirvieron de mucho y fueron de gran ayuda en su mayoría. Para comenzar con los cálculos se necesita un archivo Excel en el cual estarán los datos acomodados en distintas columnas, las cuales el usuario editará a su gusto para que posteriormente el archivo de Python haga los cálculos automáticamente.
+                                        Figura 2. Código inicial del programa
+                                        
+Se intentó basarse en conocimientos que habían otorgado los trabajos anteriores a esta entrega, los cuales sirvieron de mucho y fueron de gran ayuda en su mayoría. 
+Para comenzar con los cálculos se necesita un archivo Excel en el cual estarán los datos acomodados en distintas columnas, las cuales el usuario editará a su gusto para que posteriormente el archivo de Python haga los cálculos automáticamente.
 Comenzamos con el cálculo de distancias entre coordenadas y azimut, los cuales el programa toma de la hoja de cálculos de Excel de manera automática, escribiendo, por ejemplo “Coordenada X1=…, Coordenada Y1=…, y hasta terminar de agregar las coordenadas, muestra la distancia entre las mismas y, para finalizar, el azimut. Para el cálculo del perímetro, el programa va a dar el azimut automáticamente para después asignar una variable a cada distancia para posteriormente sumarlas, dando como resultado el perímetro del polígono realizado.
 
 
