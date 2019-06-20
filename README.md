@@ -33,8 +33,9 @@ Para empezar, tuvimos la idea de hacer un código distinto a nuestra finalizaci�
  
    ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
 
-Figura 1. Código para obtener el azimut
-En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con las variables del programa.
+                                    Figura 1. Código para obtener el azimut
+                                   
+         En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con las variables del programa.
 
 
 
@@ -52,7 +53,7 @@ Comenzamos con el cálculo de distancias entre coordenadas y azimut, los cuales 
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/3%20Distancia.png)
 
-                          Figura 3 Códigos para cálculos del programa
+                                       Figura 3 Códigos para cálculos del programa
                           
 **3.- Manejo de Datos**
 
@@ -73,7 +74,7 @@ Las siguientes imágenes harán referencia a un caso topográfico real en el cua
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/4%20Coordenadas.png)
 
 
-                                   Figura 4 Estructura del archivo csv.
+                                            Figura 4 Estructura del archivo csv.
 
 
 
@@ -90,7 +91,7 @@ Las siguientes imágenes harán referencia a un caso topográfico real en el cua
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/5%20L%C3%ADenas.png)
 
-                                     Figura 5 Primera parte del código.
+                                             Figura 5 Primera parte del código.
                                      
 En esta parte del código se llama a las librerías correspondientes, las columnas se transforman en listas, se pregunta cómo se llama el archivo y cuántos datos tiene.
 
@@ -102,8 +103,8 @@ En esta parte del código se llama a las librerías correspondientes, las column
 
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/6%20Bandera.png)
-
-                                        Figura 6 Segunda parte del código.
+ 
+                                              Figura 6 Segunda parte del código.
                                         
 En la imagen anterior se observa la última parte del código; en la que se termina el ciclo bandera, el cual se asegura de que el número de datos insertados manualmente por el usuario sea igual a los contenidos en el archivo. Si el número de datos es correcto se efectúan las operaciones para cada fila y columna y se arrojan los resultados.
 
@@ -119,8 +120,8 @@ En la imagen anterior se observa la última parte del código; en la que se term
 
 ![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/7%20Datos.png)
 
-Figura 7 Programa corrido.
-En la imagen anterior se observa cómo se arrojan los resultados en el Python Shell.
+                                                Figura 7 Programa corrido.
+                   En la imagen anterior se observa cómo se arrojan los resultados en el Python Shell.
 
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/8%20Levantamiento.png)
