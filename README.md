@@ -128,7 +128,7 @@ En la imagen anterior se observa la última parte del código; en la que se term
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/8%20Levantamiento.png)
 
-                                                 Figura 8 Gráfica del pol
+                                                 Figura 8 Gráfica del polígono
                                                  
 La figura 8 muestra cómo es el polígono real según las coordenadas del archivo csv.
 Vimos este proyecto como un trabajo sencillo para nuestra materia, el cual nos facilitaría un poco este tipo de trabajos, pero, viendo el resultado final, pareciera como si el trabajo hiciera todo por ti, pues es capaz de imprimirte hasta el polígono en un plano. En caso de que no puedas adquirir este plano de tu polígono, puedes darte una idea de cómo es, ya que los datos que agregas en el proyecto son reales, haciendo que su facilidad de uso para cualquier usuario sea altísima, facilitando por mucho todo trabajo relacionado con esto. 
