@@ -1,7 +1,7 @@
 # Proyecto-Calculos-Basicos
 ### Cálculo de elementos de trabajo de topografía básica enfocada en planimetría de predios rurales y urbanos a partir de Excel
 #### Azimut, coordenadas
-###### Facultad de Ingeniería Civil, Carretera Coquimatlán Kilómetro 9, Coquimatlán 28,400, Coquimatlán, Coli-ma, dgaytan0@ucol.mx, mvazquez15@ucol.mx, ricardojavier_montes@ucol.mx 
+###### Facultad de Ingeniería Civil, Carretera Coquimatlán Kilómetro 9, Coquimatlán 28,400, Coquimatlán, Colima, dgaytan0@ucol.mx, mvazquez15@ucol.mx, ricardojavier_montes@ucol.mx 
 
 **Resumen**
 Elaboración de un programa en Python para el cálculo de elementos de un trabajo de topografía básica como lo son azimut, las distancias y la representación gráfica de una poligonal; partiendo de un documento de Excel (csv) que contiene las coordenadas; con el fin de facilitar la obtención de los da-tos mencionados anteriormente, mostrando en distintos puntos texto donde se explica qué se hizo para cada ocasión/punto: Resumen, desarrollo experimental, donde se explica con detalles e imágenes el procedimiento y desarrollo, manejo de datos, análisis de resultados y conclusiones generales, además de las fuentes consultadas para la creación total del contenido de este texto y el proyecto. 
