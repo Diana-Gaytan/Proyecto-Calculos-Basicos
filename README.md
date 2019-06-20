@@ -31,7 +31,7 @@ El uso de las librerías en Python facilita el traba-jo, por eso usamos openpyxl
 Para empezar, tuvimos la idea de hacer un código distinto a nuestra finalización, pues teníamos una idea distinta de lo que queríamos hacer. El programa funcionaba correctamente, pero no tenía las funciones “correctas”, pues el cálculo de “N” número de lados no funcionaba de manera adecuada, ya que calculaba única-mente polígonos con 4 lados, pero el usuario debía introducir manualmente la mayoría de los datos que el programa pedía. Además de calcular el azimut una vez se ingresaban los datos, también calculaba la distancia, así que, hasta este punto, el código funcionaba muy bien pero no era lo que nosotros buscábamos como resultados. Si hubiésemos querido calcular el azimut y distancia para polígonos de 4 lados, con eso, habríamos terminado.
  
  
- ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
+                                 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
 
 Figura 1. Código para obtener el azimut
 En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con las variables del programa.
