@@ -1,6 +1,6 @@
 # Proyecto-Calculos-Basicos
 ### Cálculo de elementos de trabajo de topografía básica enfocada en planimetría de predios rurales y urbanos a partir de Excel
-#### Azimut, coordenadas
+#### Azimut y coordenadas
 ###### Facultad de Ingeniería Civil, Carretera Coquimatlán Kilómetro 9, Coquimatlán 28,400, Coquimatlán, Colima, dgaytan0@ucol.mx, mvazquez15@ucol.mx, ricardojavier_montes@ucol.mx 
 
 **Resumen**
