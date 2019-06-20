@@ -32,6 +32,7 @@ Para empezar, tuvimos la idea de hacer un código distinto a nuestra finalizaci�
  
  
  ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
+
 Figura 1. Código para obtener el azimut
 En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con las variables del programa.
 
