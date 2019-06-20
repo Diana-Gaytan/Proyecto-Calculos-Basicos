@@ -37,7 +37,7 @@ En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con l
 
 
 
-!(https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
 
 
 
