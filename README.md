@@ -33,7 +33,7 @@ Para empezar, tuvimos la idea de hacer un código distinto a nuestra finalizaci�
  
    ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
 
-                                    Figura 1. Código para obtener el azimut
+                                          Figura 1. Código para obtener el azimut
                                    
          En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con las variables del programa.
 
@@ -76,7 +76,7 @@ Las siguientes imágenes harán referencia a un caso topográfico real en el cua
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/4%20Coordenadas.png)
 
 
-                                            Figura 4 Estructura del archivo csv.
+                                           Figura 4 Estructura del archivo csv.
 
 
 
@@ -122,13 +122,13 @@ En la imagen anterior se observa la última parte del código; en la que se term
 
 ![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/7%20Datos.png)
 
-                                                Figura 7 Programa corrido.
+                                               Figura 7 Programa corrido.
                    En la imagen anterior se observa cómo se arrojan los resultados en el Python Shell.
 
 
 ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/8%20Levantamiento.png)
 
-                                                 Figura 8 Gráfica del polígono
+                                              Figura 8 Gráfica del polígono
                                                  
 La figura 8 muestra cómo es el polígono real según las coordenadas del archivo csv.
 Vimos este proyecto como un trabajo sencillo para nuestra materia, el cual nos facilitaría un poco este tipo de trabajos, pero, viendo el resultado final, pareciera como si el trabajo hiciera todo por ti, pues es capaz de imprimirte hasta el polígono en un plano. En caso de que no puedas adquirir este plano de tu polígono, puedes darte una idea de cómo es, ya que los datos que agregas en el proyecto son reales, haciendo que su facilidad de uso para cualquier usuario sea altísima, facilitando por mucho todo trabajo relacionado con esto. 
