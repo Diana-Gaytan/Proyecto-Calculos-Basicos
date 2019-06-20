@@ -40,7 +40,7 @@ En la figura anterior se muestra la fórmula adaptada al lenguaje Python y con l
 
 
 
-
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/2%20Distancia.png)
 
 Figura 2. Código inicial del programa
 Se intentó basarse en conocimientos que habían otorgado los trabajos anteriores a esta entrega, los cuales sirvieron de mucho y fueron de gran ayuda en su mayoría. Para comenzar con los cálculos se necesita un archivo Excel en el cual estarán los datos acomodados en distintas columnas, las cuales el usuario editará a su gusto para que posteriormente el archivo de Python haga los cálculos automáticamente.
@@ -50,6 +50,7 @@ Comenzamos con el cálculo de distancias entre coordenadas y azimut, los cuales 
 
 
 
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/3%20Distancia.png)
 
                           Figura 3 Códigos para cálculos del programa
                           
@@ -69,7 +70,7 @@ Las siguientes imágenes harán referencia a un caso topográfico real en el cua
 
 
 
-
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/4%20Coordenadas.png)
 
 
                                    Figura 4 Estructura del archivo csv.
@@ -87,7 +88,7 @@ Las siguientes imágenes harán referencia a un caso topográfico real en el cua
 
 
 
-
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/5%20L%C3%ADenas.png)
 
                                      Figura 5 Primera parte del código.
                                      
@@ -100,7 +101,7 @@ En esta parte del código se llama a las librerías correspondientes, las column
 
 
 
-
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/6%20Bandera.png)
 
                                         Figura 6 Segunda parte del código.
                                         
@@ -116,13 +117,13 @@ En la imagen anterior se observa la última parte del código; en la que se term
 
 
 
-
+![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/7%20Datos.png)
 
 Figura 7 Programa corrido.
 En la imagen anterior se observa cómo se arrojan los resultados en el Python Shell.
 
 
-
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/8%20Levantamiento.png)
 
                                                  Figura 8 Gráfica del pol
                                                  
