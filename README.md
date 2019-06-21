@@ -31,7 +31,7 @@ El uso de las librerías en Python facilita el traba-jo, por eso usamos openpyxl
 Para empezar, tuvimos la idea de hacer un código distinto a nuestra finalización, pues teníamos una idea distinta de lo que queríamos hacer. El programa funcionaba correctamente, pero no tenía las funciones “correctas”, pues el cálculo de “N” número de lados no funcionaba de manera adecuada, ya que calculaba única-mente polígonos con 4 lados, pero el usuario debía introducir manualmente la mayoría de los datos que el programa pedía. Además de calcular el azimut una vez se ingresaban los datos, también calculaba la distancia, así que, hasta este punto, el código funcionaba muy bien pero no era lo que nosotros buscábamos como resultados. Si hubiésemos querido calcular el azimut y distancia para polígonos de 4 lados, con eso, habríamos terminado.
  
  
-   ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/1%20Azimut.png)
+   ![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/1%20Azimut.png)
 
                                           Figura 1. Código para obtener el azimut
                                    
@@ -41,7 +41,7 @@ Para empezar, tuvimos la idea de hacer un código distinto a nuestra finalizaci�
 
 
 
-![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/2%20Distancia.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/2%20Distancia.png)
 
                                         Figura 2. Código inicial del programa
                                         
@@ -53,7 +53,7 @@ Comenzamos con el cálculo de distancias entre coordenadas y azimut, los cuales 
 
 
 
-![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/3%20Distancia.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/3%20Distancia.png)
 
                                        Figura 3 Códigos para cálculos del programa
                           
@@ -73,7 +73,7 @@ Las siguientes imágenes harán referencia a un caso topográfico real en el cua
 
 
 
-![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/4%20Coordenadas.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/4%20Coordenadas.png)
 
 
                                            Figura 4 Estructura del archivo csv.
@@ -91,7 +91,7 @@ Las siguientes imágenes harán referencia a un caso topográfico real en el cua
 
 
 
-![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/5%20L%C3%ADenas.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/5%20L%C3%ADneas.png)
 
                                              Figura 5 Primera parte del código.
                                      
@@ -104,7 +104,7 @@ En esta parte del código se llama a las librerías correspondientes, las column
 
 
 
-![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/6%20Bandera.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/6%20Bandera.png)
  
                                              Figura 6 Segunda parte del código.
                                         
@@ -120,13 +120,13 @@ En la imagen anterior se observa la última parte del código; en la que se term
 
 
 
-![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/7%20Datos.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/7%20Datos.png)
 
                                               Figura 7 Programa corrido.
                    En la imagen anterior se observa cómo se arrojan los resultados en el Python Shell.
 
 
-![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/8%20Levantamiento.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/Imagenes/8.png)
 
                                              Figura 8 Gráfica del polígono
                                                  
