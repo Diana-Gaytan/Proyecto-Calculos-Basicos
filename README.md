@@ -53,13 +53,13 @@ Comenzamos con el cálculo de distancias entre coordenadas y azimut, los cuales 
 
 
 
-![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/Diana-Gaytan/Proyecto-Calculos-Basicos/master/3%20Distancia.png)
+![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/Caso_real.csv)
 
                                        Figura 3 Códigos para cálculos del programa
                           
 **3.- Manejo de Datos**
 
-El programa maneja datos geográficos (coordenadas en x y y) que se encuentran dentro de archivos csv organizado en 2 columnas, una con el nombre “X” y la otra “Y” (como se muestra en el archivo csv "Caso_real", el cual contiene datos de un levantamiento real realizado por los alumnos de la Facultad de Ineniería Civil de la carrera Ingeniero Topógrafo Geomático en la comunidad "El Poblado", Coquimatlán Colima"). Dichos datos son leídos por el programa automáticamente; primero, el programa te pregunta cómo se llama tu archivo para poder abrirlo, posteriormente se le tiene que insertar el número de puntos que tiene el archivo en csv, para después tomar la información escrita dentro de estos y así calcular lo que se le pide/necesario mediante el uso de las fórmulas ya presentadas en el apartado de Desarrollo Experimental. En este punto, los datos leídos por el programa pasan a ser numéricos para poder utilizarlos en las ecuaciones.
+El programa maneja datos geográficos (coordenadas en x y y) que se encuentran dentro de archivos csv organizado en 2 columnas, una con el nombre “X” y la otra “Y” (como se muestra en el archivo csv "Caso_real", el cual contiene datos de un levantamiento real realizado por los alumnos de la Facultad de Ineniería Civil de la carrera Ingeniero Topógrafo Geomático en la comunidad "El Poblado", Coquimatlán Colima"). ![PalabrasdelTextoAlternativo](https://github.com/Diana-Gaytan/Proyecto-Calculos-Basicos/blob/master/Caso_real.csv) Dichos datos son leídos por el programa automáticamente; primero, el programa te pregunta cómo se llama tu archivo para poder abrirlo, posteriormente se le tiene que insertar el número de puntos que tiene el archivo en csv, para después tomar la información escrita dentro de estos y así calcular lo que se le pide/necesario mediante el uso de las fórmulas ya presentadas en el apartado de Desarrollo Experimental. En este punto, los datos leídos por el programa pasan a ser numéricos para poder utilizarlos en las ecuaciones.
 Los sistemas operativos donde el programa trabaja son los derivados de Windows, pues bajo este sistema operativo fue que trabajamos en su totalidad para la creación del código y no hemos intentado hacerlo funcionar en otras “plataformas” o de otras maneras. 
 Los datos manejados en el programa son de especial interés para ingenieros topógrafos geomáticos, civiles, arquitectos o cualquier otra carrera relacionada con la topografía debido a que se obtienen resultados eficientes en poco tiempo.
 
